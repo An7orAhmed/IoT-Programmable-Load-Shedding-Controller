@@ -1,4 +1,3 @@
-```markdown
 # IoT Programmable Load Shedding Controller
 
 ## Description
